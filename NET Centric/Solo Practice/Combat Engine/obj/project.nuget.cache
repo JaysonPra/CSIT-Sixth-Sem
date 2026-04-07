@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwMGH/5Ccu4=",
+  "success": true,
+  "projectFilePath": "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/Solo Practice/Combat Engine/Combat Engine.csproj",
+  "expectedPackageFiles": [
+    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
