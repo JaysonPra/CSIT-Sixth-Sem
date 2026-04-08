@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Combat Engine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de8e2340172d448f1e913d4a714932d5a078b6cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7ea950f68f5b544caf10e52674f26ad6b520cab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Combat Engine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Combat Engine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
