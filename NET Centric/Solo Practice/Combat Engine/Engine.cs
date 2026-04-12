@@ -1,8 +1,7 @@
 namespace Combat_Engine;
 
 using Combat_Engine.Entities;
-using Combat_Engine.Mechanics;
-
+using Combat_Engine.EnemyFactory;
 class Program
 {
     public static void Main()
@@ -14,7 +13,7 @@ class Program
 
         Console.WriteLine("--- Combat Test ---");
         int rawDamage = 10;
-        hero.TakeDamage(rawDamage);
+        hero.TakeDamage(rawDamage, DamageType.Fire);
         Console.WriteLine($"Ouch! You got hit! HP: {hero.Health}");
 
         Console.WriteLine("--- EXP Test ---");
@@ -23,7 +22,14 @@ class Program
 
         Console.WriteLine("--- Death Test ---");
         rawDamage = 1000;
-        hero.TakeDamage(rawDamage);
+        hero.TakeDamage(rawDamage, DamageType.True);
         Console.WriteLine($"Ouch! You got hit! HP: {hero.Health}. Dead: {hero.IsDead}");
+
+        Console.WriteLine("--- Enemy Resistence Test ---");
+        rawDamage = 20;
+        Enemy slime = Spawner.Spawn(EnemyType.BlueSlime);
+        Console.WriteLine($"You are fighting a {slime.Name}! | Health: {slime.Health} | Armour: {slime.Armour}");
+        slime.TakeDamage(rawDamage, DamageType.Fire);
+        Console.WriteLine($"You hit the slime! | Health: {slime.Health}");
     }
 }
