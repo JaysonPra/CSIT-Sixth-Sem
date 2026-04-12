@@ -5,6 +5,7 @@ abstract public class Entity
     public string Name { get; protected set; }
     public int Armour { get; protected set; }
     public int MaxHealth { get; protected set; }
+    public Dictionary<DamageType, double> Resistences { get; set; } = [];
 
     private int _health;
     public int Health
@@ -23,9 +24,14 @@ abstract public class Entity
 
     public bool IsDead => Health <= 0;
 
-    public virtual void TakeDamage(int amount)
+    public virtual void TakeDamage(int amount, DamageType type)
     {
-        var multiplier = 1.0 - (Armour / 100.0);
-        Health -= (int)(amount * multiplier);
+        if (type == DamageType.True) { Health -= amount; return; }
+
+        double multiplier = Resistences.ContainsKey(type) ? Resistences[type] : 1.0;
+        double armourMultiplier = 100 / (100.0 + Armour);
+        int finalDamage = (int)(amount * multiplier * armourMultiplier);
+
+        Health -= finalDamage;
     }
 }
