@@ -1,7 +1,8 @@
 namespace Combat_Engine;
 
 using Combat_Engine.Entities;
-using Combat_Engine.EnemyFactory;
+using Combat_Engine.Factory;
+using Combat_Engine.Mechanics;
 class Program
 {
     public static void Main()
@@ -31,5 +32,13 @@ class Program
         Console.WriteLine($"You are fighting a {slime.Name}! | Health: {slime.Health} | Armour: {slime.Armour}");
         slime.TakeDamage(rawDamage, DamageType.Fire);
         Console.WriteLine($"You hit the slime! | Health: {slime.Health}");
+
+        Console.WriteLine("--- Trying an Attack ---");
+        rawDamage = 100;
+        Enemy IronGolem = Spawner.Spawn(EnemyType.IronGolem);
+        Console.WriteLine($"Uh oh! The {IronGolem.Name} has spawned! HP: {IronGolem.Health}");
+        hero.PerformAttack(IronGolem, MoveSet.World_Slash);
+        Console.WriteLine($"HP: {IronGolem.Health}");
+
     }
 }
