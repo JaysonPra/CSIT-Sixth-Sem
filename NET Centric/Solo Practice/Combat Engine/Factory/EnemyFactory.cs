@@ -1,6 +1,7 @@
-namespace Combat_Engine.EnemyFactory;
+namespace Combat_Engine.Factory;
 
 using Combat_Engine.Entities;
+using Combat_Engine.Mechanics;
 
 public enum EnemyType { BlueSlime, IronGolem, FireBat }
 
