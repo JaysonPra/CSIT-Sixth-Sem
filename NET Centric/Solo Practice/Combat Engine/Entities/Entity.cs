@@ -1,6 +1,8 @@
 namespace Combat_Engine.Entities;
 
-abstract public class Entity
+using Combat_Engine.Mechanics;
+
+abstract public class Entity : ITargetable
 {
     public string Name { get; protected set; }
     public int Armour { get; protected set; }
@@ -33,5 +35,11 @@ abstract public class Entity
         int finalDamage = (int)(amount * multiplier * armourMultiplier);
 
         Health -= finalDamage;
+    }
+
+    public void PerformAttack(ITargetable target, Attack move)
+    {
+        Console.WriteLine($"{Name} uses {move.Name} on {target.Name}");
+        target.TakeDamage(move.Power, move.type);
     }
 }
