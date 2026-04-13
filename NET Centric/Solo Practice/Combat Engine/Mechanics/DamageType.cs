@@ -1,4 +1,4 @@
-namespace Combat_Engine.Entities;
+namespace Combat_Engine.Mechanics;
 
 public enum DamageType
 {
