@@ -1,6 +1,6 @@
-@{
-    string name = "Jayson";
-}
+@model WebApplication1.Models.User
 
-<h1>Welcome to MVC, @name</h1>
-<p>Hello, bro</p>
+<h1>User Profile</h1>
+<p><strong>ID:</strong> @Model.Id</p>
+<p><strong>Name:</strong> @Model.Name</p>
+<p><strong>Email:</strong> @Model.Email</p>
