@@ -1,0 +1,61 @@
+##                       .gitignore for ASP.NET MVC Core
+## =======================================================================
+
+# ------------------------------------------------------------------------
+# Build and Output Artifacts
+# ------------------------------------------------------------------------
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Cc]ontentFiles/
+
+# ------------------------------------------------------------------------
+# JetBrains Rider, Visual Studio, and VS Code User Settings
+# ------------------------------------------------------------------------
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Avoid tracking your launch settings if they contain local dev configurations
+Properties/launchSettings.json
+
+# ------------------------------------------------------------------------
+# Dynamic Data / Databases (SQLite / SQL Server Express files)
+# ------------------------------------------------------------------------
+*.db
+*.db-shm
+*.db-wal
+*.mdf
+*.ldf
+
+# ------------------------------------------------------------------------
+# Security and Local Environments
+# ------------------------------------------------------------------------
+# Never track actual app secrets or local environment overrides
+appsettings.Development.json
+.secrets.json
+
+# ------------------------------------------------------------------------
+# Dependencies and Tooling
+# ------------------------------------------------------------------------
+# NuGet packages are restored dynamically at build time
+*.nupkg
+**/packages/
+project.lock.json
+project.fragment.lock.json
+
+# Front-end dependencies (if you use npm/node inside the MVC app)
+node_modules/
+.pnpm-store/
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db
