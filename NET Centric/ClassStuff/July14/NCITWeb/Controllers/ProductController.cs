@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using NCITWeb.Models;
 
 namespace NCITWeb.Controllers
 {
@@ -7,7 +8,16 @@ namespace NCITWeb.Controllers
         // GET: ProductController
         public IActionResult Create()
         {
-            return View();
+            Product p1 = new()
+            {
+                Id = 1,
+                Name = "Test",
+                Price = 45
+            };
+
+            ViewData["name"] = "Ram";
+            ViewBag.age = 20;
+            return View(p1);
         }
 
     }

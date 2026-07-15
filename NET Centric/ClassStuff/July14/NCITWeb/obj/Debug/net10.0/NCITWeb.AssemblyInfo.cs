@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NCITWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcc610bc2054ac73cd228eb5af2432e0b865cb5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd662b6543497fc5197c3b981c412fe961b3202")]
 [assembly: System.Reflection.AssemblyProductAttribute("NCITWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NCITWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
