@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zflJcuOx/Us=",
+  "dgSpecHash": "rhFTrCz4LLw=",
   "success": true,
   "projectFilePath": "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/ClassStuff/July7/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [
-    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
   ],
   "logs": []
 }
