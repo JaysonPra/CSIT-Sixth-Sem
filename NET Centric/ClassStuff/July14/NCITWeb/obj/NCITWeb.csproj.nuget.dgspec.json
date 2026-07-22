@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/ClassStuff/July14/NCITWeb/NCITWeb.csproj": {}
+    "/home/jaysonpr/projects/Class/ncc/NET Centric/ClassStuff/July14/NCITWeb/NCITWeb.csproj": {}
   },
   "projects": {
-    "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/ClassStuff/July14/NCITWeb/NCITWeb.csproj": {
+    "/home/jaysonpr/projects/Class/ncc/NET Centric/ClassStuff/July14/NCITWeb/NCITWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/ClassStuff/July14/NCITWeb/NCITWeb.csproj",
+        "projectUniqueName": "/home/jaysonpr/projects/Class/ncc/NET Centric/ClassStuff/July14/NCITWeb/NCITWeb.csproj",
         "projectName": "NCITWeb",
-        "projectPath": "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/ClassStuff/July14/NCITWeb/NCITWeb.csproj",
+        "projectPath": "/home/jaysonpr/projects/Class/ncc/NET Centric/ClassStuff/July14/NCITWeb/NCITWeb.csproj",
         "packagesPath": "/home/jaysonpr/.nuget/packages/",
-        "outputPath": "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/ClassStuff/July14/NCITWeb/obj/",
+        "outputPath": "/home/jaysonpr/projects/Class/ncc/NET Centric/ClassStuff/July14/NCITWeb/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jaysonpr/.nuget/NuGet/NuGet.Config"

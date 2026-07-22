@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iUtA02DYtGs=",
+  "dgSpecHash": "3+KIuoza9KY=",
   "success": true,
-  "projectFilePath": "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/Solo Practice/CSVReader/CSVReader.csproj",
+  "projectFilePath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Solo Practice/CSVReader/CSVReader.csproj",
   "expectedPackageFiles": [
-    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
   ],
   "logs": []
 }

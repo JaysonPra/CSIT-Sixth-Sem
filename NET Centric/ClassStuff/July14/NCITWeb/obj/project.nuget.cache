@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ARP5XjYKQds=",
+  "dgSpecHash": "NmYBhWSg7V4=",
   "success": true,
-  "projectFilePath": "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/ClassStuff/July14/NCITWeb/NCITWeb.csproj",
+  "projectFilePath": "/home/jaysonpr/projects/Class/ncc/NET Centric/ClassStuff/July14/NCITWeb/NCITWeb.csproj",
   "expectedPackageFiles": [
     "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
   ],

@@ -1,0 +1,15 @@
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/obj/Debug/net10.0/JaysonNCCLab.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/obj/Debug/net10.0/JaysonNCCLab.AssemblyInfoInputs.cache
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/obj/Debug/net10.0/JaysonNCCLab.AssemblyInfo.cs
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/obj/Debug/net10.0/JaysonNCCLab.csproj.CoreCompileInputs.cache
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/obj/Debug/net10.0/JaysonNCCLab.sourcelink.json
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/bin/Debug/net10.0/JaysonNCCLab
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/bin/Debug/net10.0/JaysonNCCLab.deps.json
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/bin/Debug/net10.0/JaysonNCCLab.runtimeconfig.json
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/bin/Debug/net10.0/JaysonNCCLab.dll
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/bin/Debug/net10.0/JaysonNCCLab.pdb
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/obj/Debug/net10.0/JaysonNCCLab.dll
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/obj/Debug/net10.0/refint/JaysonNCCLab.dll
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/obj/Debug/net10.0/JaysonNCCLab.pdb
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/obj/Debug/net10.0/JaysonNCCLab.genruntimeconfig.cache
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/obj/Debug/net10.0/ref/JaysonNCCLab.dll

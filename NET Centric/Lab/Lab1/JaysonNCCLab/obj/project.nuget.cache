@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lYBVq5sqhqI=",
+  "success": true,
+  "projectFilePath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab1/JaysonNCCLab/JaysonNCCLab.csproj",
+  "expectedPackageFiles": [
+    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/Solo Practice/CSVReader/CSVReader.csproj",
+      "projectUniqueName": "/home/jaysonpr/projects/Class/ncc/NET Centric/Solo Practice/CSVReader/CSVReader.csproj",
       "projectName": "CSVReader",
-      "projectPath": "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/Solo Practice/CSVReader/CSVReader.csproj",
+      "projectPath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Solo Practice/CSVReader/CSVReader.csproj",
       "packagesPath": "/home/jaysonpr/.nuget/packages/",
-      "outputPath": "/home/jaysonpr/Desktop/Projects/College/Sixth Sem/NET Centric/Solo Practice/CSVReader/obj/",
+      "outputPath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Solo Practice/CSVReader/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jaysonpr/.nuget/NuGet/NuGet.Config"
@@ -63,7 +63,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[10.0.4, 10.0.4]"
+            "version": "[10.0.10, 10.0.10]"
           }
         ],
         "frameworkReferences": {
@@ -71,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
