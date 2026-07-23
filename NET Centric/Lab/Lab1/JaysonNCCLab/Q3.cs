@@ -24,8 +24,6 @@ namespace JaysonNCCLab
             jaggedArray[2][1] = 80;
             jaggedArray[2][2] = 90;
 
-            Console.WriteLine("Question 3 Output:\n");
-
             for (int i = 0; i < jaggedArray.Length; i++)
             {
                 Console.Write("Row " + i + ": ");

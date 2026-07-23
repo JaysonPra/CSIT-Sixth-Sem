@@ -19,17 +19,14 @@ namespace JaysonNCCLab
 
     class Child : Parent
     {
-        // c) Using base to call the base class constructor
         public Child() : base()
         {
         }
 
         public void ShowDemo()
         {
-            // a) Using base to access base class fields
             Console.WriteLine("Accessing Field: " + base.message);
 
-            // b) Using base to call base class methods
             base.Display();
         }
     }
