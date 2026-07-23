@@ -31,6 +31,8 @@ namespace JaysonNCCLab
             Action<string> print = message => Console.WriteLine("Action: " + message);
             print("Action delegate call");
 
+            // Continue from here
+
             Notify anonDel = delegate (string msg)
             {
                 Console.WriteLine("Anonymous Method: " + msg);
