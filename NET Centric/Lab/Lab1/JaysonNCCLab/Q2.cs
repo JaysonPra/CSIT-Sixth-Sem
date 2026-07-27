@@ -19,8 +19,6 @@ namespace JaysonNCCLab
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Question 2 Output:\n");
-
             Employee emp = new Employee(101, "Jayson");
 
             Console.WriteLine("Original Name (Auto): " + emp.Name);

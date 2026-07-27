@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JaysonNCCLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+003081b4a787968bc86e30a4b071bdb366abd9dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d914fca1fc03ae5a03309d9c27250508cf2cee8")]
 [assembly: System.Reflection.AssemblyProductAttribute("JaysonNCCLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JaysonNCCLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
