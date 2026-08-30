@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApp5ByJayson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b87c44c502f8674ff03363a19166640a85281f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57c567c4d261f637ee0dc6d2bfb493c7cabe834a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApp5ByJayson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApp5ByJayson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

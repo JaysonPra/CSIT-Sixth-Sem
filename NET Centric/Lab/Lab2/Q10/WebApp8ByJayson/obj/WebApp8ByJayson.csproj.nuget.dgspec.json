@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q11/WebApp8ByJayson/WebApp8ByJayson.csproj": {}
+    "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q10/WebApp8ByJayson/WebApp8ByJayson.csproj": {}
   },
   "projects": {
-    "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q11/WebApp8ByJayson/WebApp8ByJayson.csproj": {
+    "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q10/WebApp8ByJayson/WebApp8ByJayson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q11/WebApp8ByJayson/WebApp8ByJayson.csproj",
+        "projectUniqueName": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q10/WebApp8ByJayson/WebApp8ByJayson.csproj",
         "projectName": "WebApp8ByJayson",
-        "projectPath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q11/WebApp8ByJayson/WebApp8ByJayson.csproj",
+        "projectPath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q10/WebApp8ByJayson/WebApp8ByJayson.csproj",
         "packagesPath": "/home/jaysonpr/.nuget/packages/",
-        "outputPath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q11/WebApp8ByJayson/obj/",
+        "outputPath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q10/WebApp8ByJayson/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jaysonpr/.nuget/NuGet/NuGet.Config"
