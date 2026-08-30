@@ -1,0 +1,7 @@
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q1/WebApp1ByJayson/bin/Release/net10.0/publish/WebApp1ByJayson
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q1/WebApp1ByJayson/bin/Release/net10.0/publish/appsettings.Development.json
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q1/WebApp1ByJayson/bin/Release/net10.0/publish/appsettings.json
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q1/WebApp1ByJayson/bin/Release/net10.0/publish/WebApp1ByJayson.dll
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q1/WebApp1ByJayson/bin/Release/net10.0/publish/WebApp1ByJayson.deps.json
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q1/WebApp1ByJayson/bin/Release/net10.0/publish/WebApp1ByJayson.runtimeconfig.json
+/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q1/WebApp1ByJayson/bin/Release/net10.0/publish/WebApp1ByJayson.pdb

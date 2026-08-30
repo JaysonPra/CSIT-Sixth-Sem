@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4PO4B3g04E=",
+  "success": true,
+  "projectFilePath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q11/WebApp8ByJayson/WebApp8ByJayson.csproj",
+  "expectedPackageFiles": [
+    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
