@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RSwlNoKDsIk=",
+  "dgSpecHash": "zIO2mwJSaH4=",
   "success": true,
   "projectFilePath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q6/WebApp5ByJayson/WebApp5ByJayson.csproj",
   "expectedPackageFiles": [
@@ -27,7 +27,7 @@
     "/home/jaysonpr/.nuget/packages/system.identitymodel.tokens.jwt/8.16.0/system.identitymodel.tokens.jwt.8.16.0.nupkg.sha512",
     "/home/jaysonpr/.nuget/packages/system.security.cryptography.pkcs/9.0.13/system.security.cryptography.pkcs.9.0.13.nupkg.sha512",
     "/home/jaysonpr/.nuget/packages/system.security.cryptography.protecteddata/9.0.13/system.security.cryptography.protecteddata.9.0.13.nupkg.sha512",
-    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xSeh/8eCUw=",
+  "success": true,
+  "projectFilePath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q12/a/JQueryByJayson/JQueryByJayson.csproj",
+  "expectedPackageFiles": [
+    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

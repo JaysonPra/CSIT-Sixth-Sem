@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApp4ByJayson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57c567c4d261f637ee0dc6d2bfb493c7cabe834a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e1d72646fbe227adf42c828723d89a590011a44")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApp4ByJayson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApp4ByJayson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "agAJ2iOuEtg=",
+  "dgSpecHash": "BWllV4QoHLw=",
   "success": true,
   "projectFilePath": "/home/jaysonpr/projects/Class/ncc/NET Centric/Lab/Lab2/Q8/WebApp7ByJayson/WebApp7ByJayson.csproj",
   "expectedPackageFiles": [
@@ -61,7 +61,7 @@
     "/home/jaysonpr/.nuget/packages/system.memory.data/8.0.1/system.memory.data.8.0.1.nupkg.sha512",
     "/home/jaysonpr/.nuget/packages/system.security.cryptography.pkcs/9.0.11/system.security.cryptography.pkcs.9.0.11.nupkg.sha512",
     "/home/jaysonpr/.nuget/packages/system.security.cryptography.protecteddata/9.0.11/system.security.cryptography.protecteddata.9.0.11.nupkg.sha512",
-    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+    "/home/jaysonpr/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
   ],
   "logs": []
 }
